@@ -1,7 +1,7 @@
 class Quote {
 
-  String? text = "quotes";
-  String? author = "oscar wilde";
+  String? text;
+  String? author;
 
   //  normal constructor, as we've already seen
 
