@@ -47,7 +47,8 @@ class _QuoteListState extends State<QuoteList> {
               color: Colors.blue.shade400,
             ),
           )
-        ],),
+        ],
+        ),
     ),
     );
   }
