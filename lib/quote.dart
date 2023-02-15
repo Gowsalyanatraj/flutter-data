@@ -2,6 +2,7 @@ class Quote {
 
   String? text;
   String? author;
+  String? delete;
 
   //  normal constructor, as we've already seen
 
@@ -23,6 +24,3 @@ class Quote {
   Quote({ this.text, this.author });
 
 }
-
-  
-
